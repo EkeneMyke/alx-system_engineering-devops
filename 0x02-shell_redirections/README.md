@@ -15,3 +15,5 @@ Prints the first ten lines of a file.
 Prints an exact line from a file.
 ### It is a good file that cuts iron without making a noise.
 Prints file that has special characters.
+###  Save current state of directory
+Copying contents into another file.
