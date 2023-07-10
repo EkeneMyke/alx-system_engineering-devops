@@ -1,2 +1,2 @@
-### Hello_World
-Prints Hello World' at the output
+#!/bin/bash
+Prints 'Hello World' at the output.
