@@ -1,7 +1,9 @@
-##0.Hello World
+## Hello World
 Prints script in linux
 
-##1. Confused smiley
+## Confused smiley
 Displayed special characters.
-##2. Let's display a file
+## Let's display a file
 Display contents of a file.
+## What about 2?
+Displays contents of 2 files at once.
