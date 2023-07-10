@@ -9,3 +9,5 @@ Display contents of a file.
 Displays contents of 2 files at once.
 ### Last lines of a file
 Prints the last ten lines of a file.
+### I'd prefer the first ones actually
+Prints the first ten lines of a file.
