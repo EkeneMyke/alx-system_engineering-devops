@@ -1,2 +1,2 @@
-#!/bin/bash
-Prints 'Hello World' at the output.
+0. Hello World
+Prints script in linux
