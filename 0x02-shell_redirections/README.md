@@ -17,3 +17,7 @@ Prints an exact line from a file.
 Prints file that has special characters.
 ###  Save current state of directory
 Copying contents into another file.
+### Duplicate last line
+Duplicating lines.
+### No more javascript
+Removing .js files
