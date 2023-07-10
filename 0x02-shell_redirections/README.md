@@ -13,3 +13,5 @@ Prints the last ten lines of a file.
 Prints the first ten lines of a file.
 ### Line N2
 Prints an exact line from a file.
+### It is a good file that cuts iron without making a noise.
+Prints file that has special characters.
