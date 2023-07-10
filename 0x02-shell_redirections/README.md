@@ -11,3 +11,5 @@ Displays contents of 2 files at once.
 Prints the last ten lines of a file.
 ### I'd prefer the first ones actually
 Prints the first ten lines of a file.
+### Line N2
+Prints an exact line from a file.
